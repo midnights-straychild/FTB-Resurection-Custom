@@ -1,0 +1,502 @@
+# Configuration file
+
+appeng {
+
+    "storage cell" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+}
+
+
+buildcraft {
+
+    "desert oil field" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "ocean oil field" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+}
+
+
+minecraft {
+
+    ocean {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    plains {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    desert {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "extreme hills" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    forest {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    taiga {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    swampland {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    river {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    hell {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    sky {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    frozenocean {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    frozenriver {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "ice plains" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "ice mountains" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    mushroomisland {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    mushroomislandshore {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    beach {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    deserthills {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    foresthills {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    taigahills {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "extreme hills edge" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    jungle {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    junglehills {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    jungleedge {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "deep ocean" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "stone beach" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "cold beach" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "birch forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "birch forest hills" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "roofed forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "cold taiga" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "cold taiga hills" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "mega taiga" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "mega taiga hills" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "extreme hills+" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    savanna {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "savanna plateau" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    mesa {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "mesa plateau f" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "mesa plateau" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "sunflower plains" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "desert m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "extreme hills m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "flower forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "taiga m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "swampland m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "ice plains spikes" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "jungle m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "jungleedge m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "birch forest m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "birch forest hills m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "roofed forest m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "cold taiga m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "mega spruce taiga" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "extreme hills+ m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "savanna m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "savanna plateau m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "mesa (bryce)" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "mesa plateau f m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "mesa plateau m" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+}
+
+
+thaumcraft {
+
+    "tainted land" {
+        B:Enable=true
+        D:OccuranceMultiplier=0.1
+    }
+
+    "magical forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=0.5
+    }
+
+    eerie {
+        B:Enable=true
+        D:OccuranceMultiplier=0.1
+    }
+
+    eldritch {
+        B:Enable=true
+        D:OccuranceMultiplier=0.2
+    }
+
+}
+
+
+ttftcuts {
+
+    "gravel beach" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    shrubland {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "snowy gravel beach" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "rocky steppe" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "tropical shrubland" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    tundra {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    volcano {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    woodland {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+}
+
+
+twilightforest {
+
+    "twilight clearing" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "dark forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "dark forest center" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "deep mushroom forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "enchanted forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "fire swamp" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "twilight glacier" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    highlands {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "highlands center" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "twilight lake" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "lighted forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "mushroom forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "oak savanna" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "snowy forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "twilight stream" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "twilight swamp" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    thornlands {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "twilight forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+    "dense twilight forest" {
+        B:Enable=true
+        D:OccuranceMultiplier=1.0
+    }
+
+}
+
+
