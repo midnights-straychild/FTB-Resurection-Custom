@@ -1,0 +1,11 @@
+# Configuration file
+
+general {
+    # Toggles whether or not blocks have colored names like in Thaumcraft 2.
+    B:colored_names=false
+
+    # Toggles or lessens graphical effects created by some blocks & items; great for low-end computers.
+    B:low_gfx=false
+}
+
+
