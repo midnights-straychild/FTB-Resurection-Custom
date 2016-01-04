@@ -4,6 +4,8 @@ Setup:
 
 1. Get the [Technic Launcher](http://www.technicpack.net/download)
 2. Search for the Heliophobia Pack
+3. Hit Install!
+4. Hit Play!
 3. ...
 4. Profit!
 
