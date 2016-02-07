@@ -1,0 +1,9 @@
+{
+  "forgeVersion": "1558",
+  "mcVersion": "1.7.10",
+  "buildNumber": 7,
+  "packVersion": "1.0.0",
+  "packID": "heliophobia",
+  "xml": "modpacks",
+  "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets} -XX:MaxPermSize=256m --tweakClass cpw.mods.fml.common.launcher.FMLTweaker"
+}
