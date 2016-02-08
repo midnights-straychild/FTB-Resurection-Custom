@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Schnapp dir den [Technic Launcher](http://www.technicpack.net/download) ()
+1. Schnapp dir den [Technic Launcher](http://www.technicpack.net/download)
 2. Such nach dem [Heliophobia Pack](http://www.technicpack.net/modpack/heliophobia.779630)
 3. Install!
 4. Play!
