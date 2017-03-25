@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 clouds:false
-resourcePacks:["JSTR_Universal_1.7.x.zip","Conquest_.zip"]
+resourcePacks:["JSTR_Universal_1.7.x.zip"]
 lastServer:
 lang:en_US
 chatVisibility:0
