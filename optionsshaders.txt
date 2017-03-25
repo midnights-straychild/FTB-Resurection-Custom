@@ -1,17 +1,19 @@
-#Sun Jul 03 14:55:19 CEST 2016
-TexMinFilB=0
-shadowResMul=1.0
-tweakBlockDamage=false
-TexMagFilB=0
-handDepthMul=0.125
-oldLighting=false
-shaderPack=(none)
-TexMinFilS=0
-renderResMul=1.0
-TexMagFilS=0
-TexMinFilN=0
-shadowClipFrustrum=true
-TexMagFilN=0
-cloudShadow=false
+#Sat Mar 25 11:07:55 CET 2017
+shaderPack=OFF
+antialiasingLevel=OFF
 normalMapEnabled=true
 specularMapEnabled=true
+renderResMul=1.0
+shadowResMul=1.0
+handDepthMul=0.125
+cloudShadow=true
+oldHandLight=default
+oldLighting=default
+tweakBlockDamage=false
+shadowClipFrustrum=true
+TexMinFilB=0
+TexMinFilN=0
+TexMinFilS=0
+TexMagFilB=0
+TexMagFilN=0
+TexMagFilS=0
